@@ -1,6 +1,6 @@
 # optom-chitchat
 
-[![.github/workflows/main.yml](https://github.com/ShivanS93/python-template/actions/workflows/main.yml/badge.svg)](https://github.com/ShivanS93/python-template/actions/workflows/main.yml)
+[![Build](https://github.com/ShivanS93/optom-chitchat/actions/workflows/main.yml/badge.svg)](https://github.com/ShivanS93/optom-chitchat/actions/workflows/main.yml)
 
 ## About
 
