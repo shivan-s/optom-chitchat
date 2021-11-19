@@ -1,5 +1,10 @@
 run:
-	pipenv run python main.py
+	docker-compose up -d --build db
+	pipenv run python manage.py runserver
+
+migrate:
+	pipenv run python manage.py makemigrations
+	pipenv run python manage.py migrate
 
 test:
 	pipenv run pytest -vv

@@ -130,4 +130,7 @@ dmypy.json
 
 # vim
 *.swp
-*.swo  
+*.swo
+
+# ansible
+ansible.log

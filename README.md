@@ -1,22 +1,18 @@
-# Project Name
+# optom-chitchat
+
 [![.github/workflows/main.yml](https://github.com/ShivanS93/python-template/actions/workflows/main.yml/badge.svg)](https://github.com/ShivanS93/python-template/actions/workflows/main.yml)
+
 ## About
 
-Provide information about the project
+The idea of this is like a twitter clone and the inspiration below.
 
-## How to run projects
+Inspiration:
 
-```shell
-make run 
-```
+1. Friend gets annoyed about patients. This would be a good way to document / rant.
+2. "Homework for Life" - usually it is a good idea to document stories like annoying patients and funny stories optometrist deal with
 
-## Run tests
+## How it will work?
 
-## Uses pipenv to manage env variables and dependancies
-
-## deploy using github actions
-
-
-## How to use
-
-How to use?
+Anonymous posting?
+Can upvote and downvote
+Names are somehow replaced with random names to maintain anon status

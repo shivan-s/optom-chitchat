@@ -5,6 +5,7 @@
 *.css.map
 *.egg-info
 *.sql.gz
+*.log
 .cache
 .project
 .idea
