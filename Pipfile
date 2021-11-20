@@ -9,6 +9,7 @@ gunicorn = "*"
 django-hashid-field = "*"
 psycopg2-binary = "*"
 sentry-sdk = "*"
+whitenoise = "*"
 
 [dev-packages]
 pytest = "*"
